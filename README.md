@@ -1,1 +1,1 @@
-# Motivatorusingjs
+# Motivator
